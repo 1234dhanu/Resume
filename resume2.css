@@ -9,7 +9,7 @@ header {
     text-align: center;
     padding: 20px;
     background-color: #1b861f;
-    color: #f7f5f5;
+    color: #fff;
 }
 
 #profile {
@@ -21,8 +21,8 @@ header {
 
 #profile img {
     border-radius: 50%;
-    max-width: 100px;
-    max-height: 100px;
+    max-width: 200px;
+    max-height: 200px;
 }
 
 .grid-container {
@@ -35,14 +35,10 @@ header {
     background-color: #fff;
     padding: 20px;
     border-radius: 10px;
-    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0px 0px 10px  rgba(0, 0, 0, 0.1);
 }
 
-#github img {
-    max-width: 30px;
-    max-height: 30px;
-    margin-right: 5px;
-}
+
 
 #projects .project {
     margin-bottom: 20px;
@@ -78,7 +74,6 @@ ul li {
 }
 
 a {
-    color: #1b861f;
     text-decoration: none;
 }
 
